@@ -1,0 +1,6 @@
+example\ContactApplication.class
+example\dao\ContactRepository.class
+example\domain\Contact.class
+example\service\ContactService.class
+example\controller\ContactController.class
+example\service\impl\ContactServiceImpl.class
